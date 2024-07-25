@@ -21,7 +21,15 @@ FalconSpace is a web-based application developed to address the challenge of lim
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Demonstration
+## Screenshots
+
+<div style="display: flex; justify-content: center;">
+  <img src="screenshots/index.png" alt="Index" width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/signin.png" alt="SignIn" width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/signup.png" alt="SignUp" width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/client_roomstatus.png" alt="Client" width="300" style="margin: 0 10px;"/>
+  <img src="screenshots/admin_schedule.png" alt="Admin" width="300" style="margin: 0 10px;"/>
+</div>
 
 ## Team
 
